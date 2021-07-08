@@ -5,5 +5,7 @@
  "refreshtokenexpires_in":7776000,
  "kimlik":"myfile.json",
  "ad":"Nagihan",
- "soyad":"Bilgin"
+ "soyad":"Bilgin",
+ "sehir":"Bursa",
+ "ulke":"Turkiye"
 }
